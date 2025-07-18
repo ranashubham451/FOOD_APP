@@ -25,3 +25,11 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(parent)
 
 // We Writig a hard code and not understable code we use jsx
+
+// GITHUB COMMAND
+// git init
+// git add .
+// git commit -m "Initial commit"
+// git branch -M main
+// git remote set-url origin https://github.com/shubhamrana424/FOOD_APP.git
+// git push -u origin main
