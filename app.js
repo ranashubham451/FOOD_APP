@@ -31,5 +31,8 @@ root.render(parent)
 // git add .
 // git commit -m "Initial commit"
 // git branch -M main
-// git remote set-url origin https://github.com/shubhamrana424/FOOD_APP.git
+
+// git remote add origin https://github.com/ranashubham451/FOOD_APP.git --> use ye krn hai 
+
+
 // git push -u origin main
